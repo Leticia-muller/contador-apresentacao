@@ -1,1 +1,1 @@
-http://contador-apresentacao.vercel.app/
+contador-apresentacao.vercel.app
